@@ -1,7 +1,6 @@
 # Deploy SelfStream
 
-All cloud deployments use a **pre-built Docker image** from DockerHub — no source code is exposed.
-
+All cloud deployments use a **pre-built Docker image** from DockerHub
 ---
 
 ## Render
