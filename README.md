@@ -1,4 +1,4 @@
-# Deploy SelfStream
+# Deploy SelfStream 🤌
 
 All cloud deployments use a **pre-built Docker image** from DockerHub
 ---
